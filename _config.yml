@@ -18,7 +18,7 @@ sidebar-avatar: /img/hand.jpg      # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-weibo_username:     翟云帆
+#weibo_username:     翟云帆
 zhihu_username:     di-yun-fan
 github_username:    zhaiyunfan
 #facebook_username:  baiying.qiu.7
