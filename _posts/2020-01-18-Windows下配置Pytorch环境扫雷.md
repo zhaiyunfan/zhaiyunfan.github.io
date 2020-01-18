@@ -4,7 +4,7 @@ title:      Windows下配置Pytorch环境扫雷.md  # 标题
 subtitle:   一点人生经验                     #副标题
 date:       2020-01-18                      # 时间
 author:     zhaiyunfan                      # 作者
-header-img: img/post-bg-2015.jpg            #这篇文章标题背景图片
+header-img: img/post-cover-Pytorch.JPG            #这篇文章标题背景图片
 catalog: true                               # 是否归档
 tags:                                       #标签
     - 深度学习
