@@ -11,8 +11,9 @@ tags:                                           #标签
     - 教程
     - Python
     - Anaconda
-    - Pytorch
+    - Jupyter
 ---
+
 ## 前言
 
 ## 后记
