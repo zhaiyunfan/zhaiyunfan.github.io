@@ -1,10 +1,10 @@
 # Site settings
-title: zyf Blog
-SEOTitle: zhaiyunfan的博客 | zyf Blog
+title: 白夜青阳 Blog
+SEOTitle: 白夜青阳的博客 | zhaiyunfan Blog
 header-img: img/post-bg-desk.jpg
 email: zhaiyunfan20000324@qq.com
 description: "Keep Curious"
-keyword: "zyf, zyf Blog, zhaiyunfan的博客, zhaiyunfan"
+keyword: "zyf, zhaiyunfan Blog, 白夜青阳的博客, zhaiyunfan, 白夜青阳"
 url: "http://zhaiyunfan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhaiyunfan/zhaiyunfan.github.io.git" # you code repository
