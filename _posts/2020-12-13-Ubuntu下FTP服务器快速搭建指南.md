@@ -2,7 +2,7 @@
 layout:      post                                   # 使用的布局（不需要改）
 title:       Linux下FTP服务器快速搭建指南          # 标题 
 subtitle:   Ubuntu 20.04                              # 副标题
-date:        2020-12-212                            # 时间
+date:        2020-12-12                            # 时间
 author:      zhaiyunfan                           # 作者
 header-img: img/post-bg-everyday.jpg           #这篇文章标题背景图片
 catalog: true                                       # 是否归档
